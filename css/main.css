@@ -20,9 +20,9 @@ ul li {
 #banner {
 
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#002221+0,002221+100&0.9+1,0.55+100 */
-background: -moz-linear-gradient(left,  rgba(0,34,33,0.9) 0%, rgba(0,34,33,0.9) 1%, rgba(0,34,33,0.55) 100%) , url(../img/banner/main-hero.jpg); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgba(0,34,33,0.9) 0%,rgba(0,34,33,0.9) 1%,rgba(0,34,33,0.55) 100%) , url(../img/banner/main-hero.jpg); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgba(0,34,33,0.9) 0%,rgba(0,34,33,0.9) 1%,rgba(0,34,33,0.55) 100%) , url(../img/banner/main-hero.jpg); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: -moz-linear-gradient(left,  rgba(0,34,33,0.9) 0%, rgba(0,34,33,0.9) 1%, rgba(0,34,33,0.75) 100%) , url(../img/banner/main-hero.jpg); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(0,34,33,0.9) 0%,rgba(0,34,33,0.9) 1%,rgba(0,34,33,0.75) 100%) , url(../img/banner/main-hero.jpg); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(0,34,33,0.9) 0%,rgba(0,34,33,0.9) 1%,rgba(0,34,33,0.75) 100%) , url(../img/banner/main-hero.jpg); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6002221', endColorstr='#8c002221',GradientType=1 ); /* IE6-9 */
 
  
@@ -91,7 +91,7 @@ nav {
 } **/
 
 a.navbar-brand img {
-    max-width: 160px;
+    max-width: 180px;
 }
 .sticky-header .nav-link:hover{
     color: #CC5457;
