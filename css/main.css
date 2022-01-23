@@ -19,9 +19,9 @@ ul li {
 }
 #banner {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#001d38+0,001d38+100&1+0,0.55+100 */
-background: -moz-linear-gradient(left,  rgba(0,29,56,1) 0%, rgba(0,29,56,0.55) 100%)  , url(../img/banner/banner.png); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgba(0,29,56,1) 0%,rgba(0,29,56,0.55) 100%)  , url(../img/banner/banner.png); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgba(0,29,56,1) 0%,rgba(0,29,56,0.55) 100%)  , url(../img/banner/banner.png); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: -moz-linear-gradient(left,  rgba(0,29,56,1) 0%, rgba(0,29,56,0.55) 100%)  , url(../img/banner/main-hero.jpg); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(0,29,56,1) 0%,rgba(0,29,56,0.55) 100%)  , url(./img/banner/main-hero.jpg); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(0,29,56,1) 0%,rgba(0,29,56,0.55) 100%)  , url(../img/banner/main-hero.jpg); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001d38', endColorstr='#8c001d38',GradientType=1 ); /* IE6-9 */
 
  
@@ -92,8 +92,8 @@ a.navbar-brand img {
     max-width: 160px;
 }
 .sticky-header .nav-link:hover{
-    color: #F91842;
-    border-bottom: solid 2.5px #F91842 ;
+    color: #851013;
+    border-bottom: solid 2.5px #851013 ;
     border-radius: 4px;
     -webkit-transition: 0.3s ease-in;
     -moz-transition: 0.3s ease-in;
@@ -104,7 +104,7 @@ a.navbar-brand img {
 }
 .contact-btn {
     color: #ffffff;
-    background-color: #F91842;
+    background-color: #851013;
     padding: 15px 40px;
     border: none;
     border-radius: 5px;
@@ -179,7 +179,7 @@ a.navbar-brand img {
  .btn-search {
     color: #ffffff;
      padding: 12px 36px;
-     background-color: #F91842;
+     background-color: #851013;
      position: relative;
      display: block;
      border: none;
@@ -230,7 +230,7 @@ a.navbar-brand img {
       font-size: 14px;
   }
   div.second-menu a:hover {
-      background-color: #F91842;
+      background-color: #851013;
       color: #ffffff;
       cursor: pointer;
       -webkit-transition: 0.3s ease-in;
@@ -258,7 +258,7 @@ a.navbar-brand img {
   }
   p.above-heading {
     font-size: 20px;
-    color: #F91842;
+    color: #851013;
     margin-bottom: 0;
     font-weight: 400;
     font-family: "Raleway", sans-serif;
@@ -317,10 +317,10 @@ a.navbar-brand img {
 
  
   .bottom-left span:hover{
-      background-color: #F91842;
+      background-color: #851013;
   }
   #hoveroverlay:hover   #hoverbg {
-    background-color: #F91842;
+    background-color: #851013;
 
   }
   .img-gradient{
@@ -401,13 +401,13 @@ border-radius: 10px;
 
   
 .grid-gallery .active{
-        color: #F91842 !important; 
-    border-bottom: solid 3px #F91842 ;
+        color: #851013 !important; 
+    border-bottom: solid 3px #851013 ;
     }
  /** .grid-gallery .nav-item a:active,
   .grid-gallery .nav-item a:focus  {
-    color: #F91842 !important; 
-    border-bottom: solid 3px #F91842 !important;
+    color: #851013 !important; 
+    border-bottom: solid 3px #851013 !important;
   }
   **/
   .grid-1, .grid-2 , .grid-3, .grid-4, .grid-5 {
@@ -439,7 +439,7 @@ border-radius: 10px;
   }
   .card:hover .card-info a{
     text-decoration: none;
- color: #F91842;
+ color: #851013;
   }  
   
   .card-img  {
@@ -501,7 +501,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80001d38', e
 .btn-add{
     margin-top: 32px;
     color: #ffffff;
-    background-color: #F91842;
+    background-color: #851013;
     padding: 15px 40px;
     border: none;
     border-radius: 5px;
@@ -572,8 +572,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80001d38', e
   
     .fas.fa-chevron-right:hover,
    .fas.fa-chevron-left:hover {
-       background-color: #F91842 !important;
-       border: solid 1px #F91842 !important;
+       background-color: #851013 !important;
+       border: solid 1px #851013 !important;
        color: #ffffff !important;
    }
    /************FOOTER*******/
@@ -661,7 +661,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80001d38', e
 
 .fab:hover  {
     text-decoration: none;
-    background-color: #F91842 !important;
+    background-color: #851013 !important;
    
     color: #ffffff;
 }
@@ -683,7 +683,7 @@ padding-left: 0 !important;
     
     color: #ffffff;
 
-     background-color: #F91842;
+     background-color: #851013;
     
      padding: 9px 15px;
     border-radius: 5px;
